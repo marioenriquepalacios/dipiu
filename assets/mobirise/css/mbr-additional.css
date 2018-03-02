@@ -1916,7 +1916,7 @@ body {
 .cid-qKYRFftp0I {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/jumbotron-1-2000x907.jpg");
+  background-image: url("../../../assets/images/backgroom-helados-275x183.jpg");
 }
 .cid-qKYRFftp0I .socicon-bg-facebook {
   background: #3e5b98;
@@ -1962,15 +1962,15 @@ body {
   color: #232323;
 }
 .cid-qKYRFftp0I .mbr-section-title B {
-  color: #5c362d;
+  color: #ffffff;
 }
 .cid-qKYOMzN63l {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/jumbotron-2-2000x907.jpg");
+  background-color: #5c362d;
 }
 .cid-qKYOMzN63l H2 {
-  color: #5c362d;
+  color: #efefef;
 }
 .cid-qKV1EQzQlg {
   padding-top: 120px;
@@ -2146,7 +2146,7 @@ body {
 .cid-qKYSGc6l0K {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #a48d87;
+  background-color: #5c362d;
 }
 .cid-qKYSGc6l0K .testimonial-text {
   font-style: italic;
@@ -2364,4 +2364,7 @@ body {
   .cid-qKOaPoiv2z .mbr-text {
     text-align: center !important;
   }
+}
+.cid-qKOaPoiv2z .mbr-links-column {
+  text-align: left;
 }
